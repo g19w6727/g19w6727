@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tim 
-- 👀 I’m interested in social ecological systems and finding technological solutions to help people adapt to climate change
+- 👋 Hi, I’m Tim Williams 
+- 👀 I’m interested in social ecological systems and finding technological solutions to help people adapt to and mitigate the effects of climate change
 - 🌱 I’m currently studying Forest Information Technology (FIT) at the University of Sustainable Development Eberswalde, Germany (HNEE)
 - 📫 How to reach me: timwilliams9810@gmail.com
 
